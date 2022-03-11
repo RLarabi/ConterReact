@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.Header{
+    width: 100vw;
+    height: 100vh;
+    background-color:#4a4a4a;
+}
+.sec_page{
+    width: 100vw;
+    height: 100vh;
+    background-color: #4a4a4a;
+    opacity: 0.7;
+}
+.second{
+    width: 100vw;
+    height: 100vh;
+    background-color: #4a4a4a;
+
+}
+.Liste_Header{
+    color: "#3f4e";
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.Liste_Header_Items{
+    text-decoration: none,
+}
+.Text a{
+    text-decoration: none;
+    color: aliceblue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+.Home a{
+    color: #f1d901;
+}
+.LARABI a{
+    color: #f14d01;
+}
+.about_me{
+    position: relative;
+    width: 50%;
+    height: 100%;
+    float: left;
+    text-align: left;
+}
+.text_about_me{
+    height: 100vh;
+    background-color: black;
+    color: white;
+    font-size: 40px;
+}
